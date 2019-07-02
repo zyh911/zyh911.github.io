@@ -1,3 +1,6 @@
 title: zyh911 --GitHub.io
 description: Personal Blog
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
