@@ -14,7 +14,7 @@
 
       <p><b><a href="https://github.com/zyh911">GitHub/zyh911</a></b></p>
 
-      <p><b>Enjoy yourself!(๑•̀ㅂ•́)و✧</b></p>
+      <p><b>Enjoy yourself! (๑•̀ㅂ•́)و✧</b></p>
 
     </td>
 
