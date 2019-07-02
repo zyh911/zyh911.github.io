@@ -1,4 +1,4 @@
-﻿[Chinses Version](index_cn.md)
+﻿You might want to see [Chinses Version](index_cn.md)
 
 <table border="0">
 
@@ -6,15 +6,15 @@
 
     <td width="75%">
 
-      <h1>张三</h1>
+      <h1>Steven Zhao</h1>
 
-      <p><b>硕士研究生</b></p>
+      <p><b>Master of Science</b></p>
 
-      <p><b>××大学××学院</b></p>
+      <p><b>EECS, PKU</b></p>
 
-      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b><a href="https://github.com/zyh911">GitHub/zyh911</a></b></p>
 
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>Enjoy yourself!(๑•̀ㅂ•́)و✧</b></p>
 
     </td>
 
