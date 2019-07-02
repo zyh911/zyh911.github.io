@@ -1,4 +1,4 @@
-﻿[Chinses Version](index_cn.md)
+﻿[英文版](index.md)
 
 <table border="0">
 
