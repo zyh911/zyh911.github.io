@@ -20,7 +20,7 @@
 
     <td width="25%">
 
-      <img src="portray.jpg" width="100%">
+      <img src="/images/portray.jpg" width="100%">
     </td>
 
   </tr>
