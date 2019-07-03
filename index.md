@@ -14,7 +14,7 @@
     
       <p><b>EECS, PKU</b></p>
     
-      <p><b><a href="https://github.com/zyh911">GitHub/zyh911</a></b></p>
+      <p><b><a href="https://github.com/zyh911" target="_blank">GitHub/zyh911</a></b></p>
     
       <p><b>Enjoy yourself! (๑•̀ㅂ•́)و✧</b></p>
     
@@ -37,11 +37,5 @@
 - iQiyi
 
 ### Useful Websites but not Easy to Find
-
-
-
-
-
-
 
 - [Unofficial Windows Binaries for Python Extension Packages](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
